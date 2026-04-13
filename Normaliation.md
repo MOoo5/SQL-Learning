@@ -6,7 +6,7 @@ Normalization is the process of organizing data in a database to:
 - Improve data integrity (سلامة البيانات)
 - Make updates easier and safer
 
----
+
 
 ## 🎯 Why Normalization?
 - Avoid data duplication
@@ -17,7 +17,7 @@ Normalization is the process of organizing data in a database to:
 
 ## ⚠️ Types of Anomalies
 
-### 1. Update Anomaly
+### 1. Update Anomaly;
 - نفس الداتا مكررة → لو عدلت واحدة لازم تعدل الباقي
 - ❌ ممكن يحصل inconsistency
 
